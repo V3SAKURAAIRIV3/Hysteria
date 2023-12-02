@@ -39,4 +39,9 @@ rm -f setup.sh; apt-get update -y; apt-get upgrade -y; wget "https://raw.githubu
 ## Key
 ```
 sayang_kau
+```
+
+## Masuk Menu Utama Taip
+```
+menu
 ``` 
